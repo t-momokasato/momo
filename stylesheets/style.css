@@ -1,0 +1,15 @@
+h1 {
+    font-size: 128px;
+    font-weight: bold;
+    color:#f0f0f0;
+    text-align: center;
+}
+body {
+    font-size:12px;
+    color:#999;
+    margin:5px;
+}
+p {
+    font-size:14px;
+    line-height:200px;
+}
